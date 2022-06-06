@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Website Bookutu
 Bookstore online menggunakan laravel
 
@@ -34,6 +33,3 @@ Package yang digunakan dalam project ini adalah sebagai berikut:
 Tugas ini dibuat oleh:
 - [Muhammad Majdi](https://github.com/Morfz)
 - [Shendy Krisyohanda](https://github.com/krisyohanda)
-=======
-## Project akan diupload jam 8
->>>>>>> 53c7e6c3b00a11fd0f30aed8ad10c5e4ad708b99
