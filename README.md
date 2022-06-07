@@ -29,6 +29,7 @@ Tampilan website ini menggunakan template dari templateshub yang berjudul [LIBRA
 Package yang digunakan dalam project ini adalah sebagai berikut:
 - [Laravel/ui](https://github.com/laravel/ui)
 - [realrashid/sweet-alert](https://github.com/realrashid/sweet-alert)
+- [the-control-group/voyager](https://github.com/the-control-group/voyager)
 
 Tugas ini dibuat oleh:
 - [Muhammad Majdi](https://github.com/Morfz)
