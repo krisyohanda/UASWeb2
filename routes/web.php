@@ -57,3 +57,7 @@ Route::delete('/cart/{id}', [CartController::class, 'delete']);
 Route::get('/checkout', [CheckoutController::class, 'index']);
 
 Route::get('/checkout/{id}', [CheckoutController::class, 'detail']);
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});

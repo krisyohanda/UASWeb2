@@ -41,6 +41,7 @@
                                                 <p><strong>Package yang digunakan dalam website ini adalah sebagai berikut:</strong></p>
                                                 <p><b><a href="https://github.com/laravel/ui">- Laravel/ui</a></b></p>
                                                 <p><b><a href="https://github.com/realrashid/sweet-alert">- realrashid/sweet-alert</a></b></p>
+                                                <p><b><a href="https://github.com/the-control-group/voyager">- the-control-group/voyager</a></b></p>
                                                 <h4>Tugas ini dibuat oleh:</h4>
                                                 <p></p>
                                                 <p><strong><a href="https://github.com/Morfz">Muhammad Majdi/2010817210007</a></strong></p>
