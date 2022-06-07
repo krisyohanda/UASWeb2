@@ -41,6 +41,7 @@ class CartController extends Controller
 
         //validasi apakah melebihi stok
         if ($request->order_quantity > $book->stok) {
+            Alert::error('Error', 'Failed to add cart!');
             return redirect('detail/' . $id)->with('error', 'Failed to add cart!');
         }
 
